@@ -1,4 +1,5 @@
 ***My Tutor Is a Gem***
+<img width="1024" height="768" alt="20250824_1448_image" src="https://github.com/user-attachments/assets/0884a8b8-cb97-4a4f-9f9e-5d0686f8b4f1" />
 
 _______________________________________________________________________________________
 With LLMs we get a lot. It’s fairly obvious they’re incredibly capable. But as LLMs and other AI models become mainstream, many of us start to accumulate technical debt: the capabilities demonstrated by the model in a project or assignment can exceed the current skills of the person using it.
